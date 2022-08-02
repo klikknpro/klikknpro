@@ -5,7 +5,8 @@
 
 ## tech I practice my skills in
 
-- JS
+- Javascript
+- Typescript
 - React
 - Node.js, Express
 - MongoDB (Mongoose)
